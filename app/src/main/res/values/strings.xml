@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PPMB - Modul 2</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="fotoku">fotoku</string>
+</resources>
